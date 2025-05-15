@@ -1,12 +1,8 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Wu, D</strong>., Liu, M., Li, D., & Yin, H*. (2024). The longitudinal relationship between loneliness and both social anxiety and mobile phone addiction among rural left‐behind children: A cross‐lagged panel analysis. <strong>Journal of adolescence</strong>, 96(5), 969-982. [[DOI]](https://doi.org/10.1002/jad.12309)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Wu, D</strong>., Li, J., Yang, Q., & Ye, B*. (2024). Exploring the dynamics of academic procrastination in junior high school students: Examining predictors using latent transition analysis. <strong>Personality and Individual Differences</strong>, 229, 112750. [[DOI]](https://doi.org/10.1016/j.paid.2024.112750)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Wu, D</strong>., Chen, S., Chen, Y., Li, D., & Yin, H. (2023). The impact of peer victimization on Chinese left-behind adolescent suicidal ideation: The mediating role of psychological suzhi and the moderating role of family cohesion. <strong>Child Abuse & Neglect</strong>, 141, 106235. [[DOI]](https://doi.org/10.1016/j.chiabu.2023.106235)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Wu, D</strong>., Ye, B., Tang, C*., Xue, J., Yang, Q., & Xia, F. (2022). Self-compassion and authentic-durable happiness during COVID-19 pandemic: The mediating role of meaning of life and the moderating role of COVID-19 burnout. <strong>Psychology Research and Behavior Management</strong>, 3243-3255. [[DOI]](https://doi.org/10.2147/PRBM.S380874)
 

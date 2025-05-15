@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- First-prize Doctoral Scholarship of HUNNU, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Excellent Doctoral Student of HUNNU, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- Jiangxi Provincial Government Scholarship, 2022.
 
-- Freshman Scholarship of CUMT, 2022.
+- Jiangxi Provincial Government Scholarship, 2021.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Provincial Graduate Academic Scholarship of JXNU, 2021.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- "Triple-A" Graduate Student of JXNU, 2021.

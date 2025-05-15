@@ -1,16 +1,16 @@
+[![wudehua](https://img.shields.io/badge/Wudehua-github-blue?logo=github)](https://github.com/wudehua)
 
-
-[![wudehua](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Department of Psychology, School of Education Science, Hunan Normal University, Changsha, China.
 
 #### Email
-sli[at]cumt.edu.cn
+Dehua.Wu[at]hunnu.edu.cn
+Dward.Wu@outlook.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Cognitive Psychology, Hunan Normal University, 2022—2025.
+M.A., Developmental and Educational Psychology, Jiangxi Normal University, 2019—2022.
+B.Ed., Education Science, Jiangxi Normal University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Adolescents, Problem behaviors, Mental health, Time perception.
 
